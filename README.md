@@ -22,10 +22,10 @@ I am very grateful for the opportunity given by Simpang Raya to contribute and g
 ## Screenshots
 
 ### Login Page
-![Login Page](Screenshots/Login_Page.png)
+![Login Page](Screenshots/loginPage.png)
 
 ### 📊 Dashboard
-![Dashboard](Screenshots/Home_Page.png)
+![Dashboard](Screenshots/dashboardPage.png)
 
 ---
 
