@@ -10,7 +10,7 @@ I am very grateful for the opportunity given by Simpang Raya to contribute and g
 ## Features
 
 - Sales and revenue dashboard
-- Input data pembelian (expenses tracking)
+- Input data pembelian
 - Input penjualan & beban usaha
 - Perhitungan dan penetapan laba bersih
 - Grafik omzet berdasarkan rentang waktu
